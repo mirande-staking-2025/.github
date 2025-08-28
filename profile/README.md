@@ -8,12 +8,9 @@ Marinade enhances Solana’s decentralization by delegating stake across hundred
 
 <div style="text-align: center">
   <a href="https://marinade-staking-free.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/🥩%20Stake%20with-Marinade-black?style=for-the-badge&logo=solana&logoColor=00ffb9">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/%20Stake%20with-Marinade-blue?style=for-the-badge&logo=solana&logoColor=00ffb9">
   </a>
 </div>
-
----  
-![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)  
 
 ---  
 ![Screenshot](https://cdn.prod.website-files.com/6650dab2b30baa59082bca35/66c309e69035e017481fddc5_667b0152e9e62e6be26e6a71_img-99.webp)
